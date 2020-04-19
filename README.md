@@ -6,6 +6,7 @@
 - LegendCarlevel error fixed.
 - Table with some test cars are added in GameDefiniton DB(whether it may used or not).
 - Some grammars are edited to read more easily.
+- Fix / Add some strings used in client(which starts with !sb)
 
 ## TODO
 - Found StartPos_Fieldcode, enter field
