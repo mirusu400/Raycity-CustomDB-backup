@@ -1,0 +1,2 @@
+- Fix GetRegionList, GetAreaList for TrafficAgent
+- Add GuildLevelTable and GetGuildLevelTable for MessangerAgent
