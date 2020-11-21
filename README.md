@@ -7,7 +7,6 @@
 
  Feel free to fork, clone, edit, and contribute.
  
- Contact: 미루나무#9880
  
 ## Changes
 - Carlevel error fixed.
